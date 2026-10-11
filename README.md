@@ -1,6 +1,6 @@
 PROJECT NAME: CampusFlow
 
-PROBLEM STATEMENT: ## Problem Statement
+PROBLEM STATEMENT:  Problem Statement
 
 Learn2Earn campus staff receive essential technical support requests daily, including Wi-Fi outages, faulty laptops, broken development environments, and inaccessible platforms. When handled informally, these critical support reports get lost, leading to unresolved technical issues, dropped productivity, and untracked staff workloads. 
 
