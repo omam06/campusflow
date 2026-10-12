@@ -1,7 +1,5 @@
-# PR Title
-
-`feat: implement ticket creation and validation`
-
+# PR Title `feat: implement ticket creation and validation`
+PR URL: https://github.com/omam06/campusflow/pull/1
 ## Related Issue
 
 N/A — add the issue number if one exists.
